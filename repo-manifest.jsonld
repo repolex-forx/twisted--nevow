@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/nevow/commit/aff713a6884a0ebf2214af5cfa3c1ea2d7d70669",
       "git:hexsha": "aff713a6884a0ebf2214af5cfa3c1ea2d7d70669",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/nevow/commit/dbdc4989949a253ff084c1c859c42834d49203ea",
